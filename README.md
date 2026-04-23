@@ -1,4 +1,4 @@
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/492e1699-a18e-4325-9561-0923e338d409" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9ae36e9d-96b8-4743-b448-8eb29f23b379" />
 
 # ChatGPT 5.5: OpenAI Unlimited Professional Resource
 
