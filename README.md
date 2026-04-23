@@ -2,7 +2,7 @@
 
 # ChatGPT 5.5: OpenAI Unlimited Professional Resource
 
-[![Stars](https://img.shields.io/github/stars/freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop)](https://github.com/freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop)](https://github.com/freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-bluek.svg)](https://opensource.org/licenses/MIT)
 
 **ChatGPT 5.5 OpenAI Unlimited** is a high-performance environment designed for developers, researchers, and power users. This suite provides a streamlined interface for the latest 5.5 architecture, featuring expanded context windows, advanced multimodal reasoning, and seamless API integration. Engineered for complex problem-solving, it offers a robust foundation for high-volume automation and creative development on Windows.
 Unlock the next generation of artificial intelligence: featuring real-time data processing, improved logic consistency, and unlimited interaction capabilities for professional-scale projects.
